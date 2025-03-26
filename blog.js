@@ -1,4 +1,4 @@
 document.getElementById("back").addEventListener("click", function () {
-    window.location.href='../indexx.html'
+    window.location.href='../index.html'
 });
      
